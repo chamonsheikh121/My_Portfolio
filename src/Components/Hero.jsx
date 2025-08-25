@@ -130,7 +130,7 @@ const Hero = () => {
           {/* Buttons */}
           <div className="flex gap-4 justify-center md:justify-start">
             <motion.a
-              href="/resume.pdf" // replace with your resume link
+              href="../assets/Resume_MD. CHAMON ALI (1).pdf" // replace with your resume link
               download
               className="px-6 py-3 rounded-lg bg-green-500 hover:bg-green-600 transition-colors text-white font-medium"
               whileHover={{ scale: 1.05 }}
