@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+#hero{
+    background-image: url('../src/assets/v617batch2-kul-05-technology.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+@keyframes gradient-move {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradient-move 3s ease infinite;
+}
+
+
+@keyframes scrollY {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-20%); } /* scroll amount */
+}
+
+.scroll-hover:hover {
+  animation: scrollY 5s linear forwards;
+}
