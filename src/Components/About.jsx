@@ -11,7 +11,7 @@ const About = () => {
           <span className="text-purple-100">About</span> Me
         </h2>
         <p data-aos="fade-up" className="text-lg mb-8 text-purple-100">
-          Explore some of our best work, crafted with precision and creativity.
+          Explore some of my best work, crafted with precision and creativity.
         </p>
       </div>
 

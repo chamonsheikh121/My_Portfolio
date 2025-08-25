@@ -55,7 +55,7 @@ const Project = () => {
       fullPageImage: "https://res.cloudinary.com/dz28duolk/image/upload/v1740332634/project12_gk62ia.png",
       description: "A modern travel booking platform where users can explore destinations, book tours, and connect with travel agencies in real time. Fully responsive and optimized for performance.",
       techStack: ["React", "JavaScript", "HTML", "CSS3", "Node.js", "MongoDB", "TailwindCSS", "Bootstrap", "Express", "Firebase", "JWT", "Axios"],
-      liveLink: "https://travel-agency.example.com",
+      // liveLink: "https://travel-agency.example.com",
       github: "https://github.com/yourname/travel-agency",
       clientReview: {
         name: "jackhurst21",
@@ -71,7 +71,7 @@ const Project = () => {
       fullPageImage: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330694/project52_coruwq.png",
       description: "A corporate platform to manage trade operations efficiently, track performance metrics, and facilitate communication between departments. Fully responsive and secure.",
       techStack: ["React", "JavaScript", "HTML", "CSS3", "Node.js", "MongoDB", "TailwindCSS", "Bootstrap", "Express", "Firebase", "JWT", "Axios"],
-      liveLink: "https://trade-development.example.com",
+      // liveLink: "https://trade-development.example.com",
       github: "https://github.com/yourname/trade-development",
       clientReview: {
         name: "jonathanncrotea",
@@ -87,7 +87,7 @@ const Project = () => {
       fullPageImage: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330566/project32_hexgyf.png",
       description: "A complete restaurant management solution including menu management, order tracking, payment history, and admin dashboards for staff management.",
       techStack: ["React", "JavaScript", "HTML", "CSS3", "Node.js", "MongoDB", "TailwindCSS", "Bootstrap", "Express", "Firebase", "JWT", "Axios"],
-      liveLink: "https://restaurant-management.example.com",
+      // liveLink: "https://restaurant-management.example.com",
       github: "https://github.com/yourname/restaurant-management",
       clientReview: {
         name: "tfreed253",
@@ -98,12 +98,28 @@ const Project = () => {
       }
     },
     {
+      projectName: "Blood Donation Non-Profit",
+      imageLink: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330650/project2_ychc5n.png",
+      fullPageImage: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330507/project22_rdopek.png",
+      description: "A non-profit platform to facilitate blood donations. Users can post requests, track donations, and connect with volunteers. Fully responsive and secure.",
+      techStack: ["React", "JavaScript", "HTML", "CSS3", "Node.js", "MongoDB", "TailwindCSS", "Bootstrap", "Express", "Firebase", "JWT", "Axios"],
+      liveLink: "https://blood-donation-aedcb.web.app/",
+      github: "https://github.com/yourname/blood-donation",
+      clientReview: {
+        name: "achsial",
+        description: "Ali delivered a robust platform that made blood donation management seamless. Highly professional and reliable!",
+        rating: 5,
+        country: "Austria",
+        image: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1a57aea77a99a9b6c50c32c2e8e381d3-1553341450844/41f18a91-78e7-4c0d-ac2d-7219b8d4af80.jpg"
+      }
+    },
+    {
       projectName: "Online Restaurant",
       imageLink: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330726/project4_scv6zf.png",
       fullPageImage: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330616/project42_vkfc2g.png",
       description: "An online platform for restaurants to display menus, accept orders, and manage customer feedback with integrated payment solutions.",
       techStack: ["React", "JavaScript", "HTML", "CSS3", "Node.js", "MongoDB", "TailwindCSS", "Bootstrap", "Express", "Firebase", "JWT", "Axios"],
-      liveLink: "https://online-restaurant.example.com",
+      // liveLink: "https://online-restaurant.example.com",
       github: "https://github.com/yourname/online-restaurant",
       clientReview: {
         name: "mikedz1",
@@ -119,7 +135,7 @@ const Project = () => {
       fullPageImage: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330720/project62_eof4nt.png",
       description: "A car selling platform allowing users to list, browse, and purchase vehicles. Integrated payment system and real-time search filters.",
       techStack: ["React", "JavaScript", "HTML", "CSS3", "Node.js", "MongoDB", "TailwindCSS", "Bootstrap", "Express", "Firebase", "JWT", "Axios"],
-      liveLink: "https://car-selling.example.com",
+      // liveLink: "https://car-selling.example.com",
       github: "https://github.com/yourname/car-selling",
       clientReview: {
         name: "atizzle7",
@@ -128,29 +144,14 @@ const Project = () => {
         country: "United States",
         image: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6d1e2fb6a1497e39611ff77f52587c6b-1930972441737644521.762051/0A77E4FE-18E7-4CD6-A926-1F49C7BFA65F"
       }
-    }, {
-      projectName: "Blood Donation Non-Profit",
-      imageLink: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330650/project2_ychc5n.png",
-      fullPageImage: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330507/project22_rdopek.png",
-      description: "A non-profit platform to facilitate blood donations. Users can post requests, track donations, and connect with volunteers. Fully responsive and secure.",
-      techStack: ["React", "JavaScript", "HTML", "CSS3", "Node.js", "MongoDB", "TailwindCSS", "Bootstrap", "Express", "Firebase", "JWT", "Axios"],
-      liveLink: "https://blood-donation.example.com",
-      github: "https://github.com/yourname/blood-donation",
-      clientReview: {
-        name: "achsial",
-        description: "Ali delivered a robust platform that made blood donation management seamless. Highly professional and reliable!",
-        rating: 5,
-        country: "Austria",
-        image: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/1a57aea77a99a9b6c50c32c2e8e381d3-1553341450844/41f18a91-78e7-4c0d-ac2d-7219b8d4af80.jpg"
-      }
-    },
+    }, 
     {
       projectName: "E-Commerce Gadget Store",
       imageLink: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330517/headphone_sytpxc.png",
       fullPageImage: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330517/headphone2_aop8a4.png",
       description: "An e-commerce platform to sell gadgets online. Includes shopping cart, payment integration, product categories, and admin dashboard for inventory management.",
       techStack: ["React", "JavaScript", "HTML", "CSS3", "Node.js", "MongoDB", "TailwindCSS", "Bootstrap", "Express", "Firebase", "JWT", "Axios"],
-      liveLink: "https://ecommerce-gadgets.example.com",
+      // liveLink: "https://ecommerce-gadgets.example.com",
       github: "https://github.com/yourname/ecommerce-gadgets",
       clientReview: {
         name: "nadster74",
@@ -166,7 +167,7 @@ const Project = () => {
       fullPageImage: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330477/camera_2_ecv9dz.png",
       description: "A photography portfolio website for professional photographers. Showcases galleries, client testimonials, and contact forms with full responsiveness.",
       techStack: ["React", "JavaScript", "HTML", "CSS3", "Node.js", "MongoDB", "TailwindCSS", "Bootstrap", "Express", "Firebase", "JWT", "Axios"],
-      liveLink: "https://photography-portfolio.example.com",
+      // liveLink: "https://photography-portfolio.example.com",
       github: "https://github.com/yourname/photography-portfolio",
       clientReview: {
         name: "elad345",
@@ -182,7 +183,7 @@ const Project = () => {
       fullPageImage: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330723/play2_hx2kru.png",
       description: "A sports club management system to manage members, events, schedules, and payments. Includes dashboards for admin and coaches, fully responsive.",
       techStack: ["React", "JavaScript", "HTML", "CSS3", "Node.js", "MongoDB", "TailwindCSS", "Bootstrap", "Express", "Firebase", "JWT", "Axios"],
-      liveLink: "https://sports-club.example.com",
+      // liveLink: "https://sports-club.example.com",
       github: "https://github.com/yourname/sports-club",
       clientReview: {
         name: "sharielehman",
@@ -358,7 +359,7 @@ const Project = () => {
           <div className="flex gap-4 mt-2">
             {selectedProject.liveLink && (
               <a
-                href={selectedProject.liveLink}
+                href={selectedProject?.liveLink ? selectedProject.liveLink: ''}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-4 py-2 rounded-xl bg-gradient-to-r from-purple-500 to-indigo-500 text-white font-semibold shadow hover:shadow-lg transition"

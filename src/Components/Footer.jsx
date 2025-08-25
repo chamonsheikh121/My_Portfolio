@@ -7,7 +7,7 @@ const Footer = () => {
         </p>
         <div className="flex justify-center space-x-6 mb-4">
           <a
-            href="https://github.com/chamonali"
+            href="https://github.com/chamonsheikh121"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-purple-500 transition-colors"
@@ -15,7 +15,7 @@ const Footer = () => {
             GitHub
           </a>
           <a
-            href="https://www.linkedin.com/in/chamonali/"
+            href="https://www.linkedin.com/in/chamon-ali/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-purple-500 transition-colors"
