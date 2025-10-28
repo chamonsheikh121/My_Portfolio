@@ -66,22 +66,6 @@ const Project = () => {
       }
     },
     {
-      projectName: "Trade Development Corporation",
-      imageLink: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330599/proejct5_ry6thn.png",
-      fullPageImage: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330694/project52_coruwq.png",
-      description: "A corporate platform to manage trade operations efficiently, track performance metrics, and facilitate communication between departments. Fully responsive and secure.",
-      techStack: ["React", "JavaScript", "HTML", "CSS3", "Node.js", "MongoDB", "TailwindCSS", "Bootstrap", "Express", "Firebase", "JWT", "Axios"],
-      // liveLink: "https://trade-development.example.com",
-      github: "https://github.com/yourname/trade-development",
-      clientReview: {
-        name: "jonathanncrotea",
-        description: "Ali delivered exceptional work with top-notch professionalism, coding expertise, and keen attention to detail. Highly recommended for any web development project!",
-        rating: 5,
-        country: "USA",
-        image: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/30e62db68b16fa4c8a2916361730e460-1668361105806/951eedd0-c37c-419f-82f6-ef02262fac03.jpg"
-      }
-    },
-    {
       projectName: "Restaurant management system",
       imageLink: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330676/project3_gtqtnk.png",
       fullPageImage: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330566/project32_hexgyf.png",
@@ -129,22 +113,7 @@ const Project = () => {
         image: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/bdb931f6c01a5fbd652f83ad39194162-1737455235273/4a79d056-0168-467d-9967-c088c1d9db17.jpeg"
       }
     },
-    {
-      projectName: "Car selling",
-      imageLink: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330538/project6_haitji.png",
-      fullPageImage: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330720/project62_eof4nt.png",
-      description: "A car selling platform allowing users to list, browse, and purchase vehicles. Integrated payment system and real-time search filters.",
-      techStack: ["React", "JavaScript", "HTML", "CSS3", "Node.js", "MongoDB", "TailwindCSS", "Bootstrap", "Express", "Firebase", "JWT", "Axios"],
-      // liveLink: "https://car-selling.example.com",
-      github: "https://github.com/yourname/car-selling",
-      clientReview: {
-        name: "atizzle7",
-        description: "Ali transformed my outdated website into a modern, high-performing platform. Highly recommended!",
-        rating: 5,
-        country: "United States",
-        image: "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_profile_small/v1/attachments/profile/photo/6d1e2fb6a1497e39611ff77f52587c6b-1930972441737644521.762051/0A77E4FE-18E7-4CD6-A926-1F49C7BFA65F"
-      }
-    }, 
+     
     {
       projectName: "E-Commerce Gadget Store",
       imageLink: "https://res.cloudinary.com/dz28duolk/image/upload/v1740330517/headphone_sytpxc.png",
