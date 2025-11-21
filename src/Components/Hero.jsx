@@ -139,16 +139,16 @@ const Hero = () => {
               Download Resume
             </motion.a>
             <motion.a
-              href="https://www.fiverr.com/chamonsheikh" // replace with Fiverr link
+              href="tel:+8801304100074" // replace with Fiverr link
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 rounded-lg bg-blue-500 hover:bg-blue-600 transition-colors text-white font-medium"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-              Fiverr Profile
+              Contact me
             </motion.a>
-          </div>
+          </div>j
         </div>
 
         {/* RIGHT IMAGE */}
